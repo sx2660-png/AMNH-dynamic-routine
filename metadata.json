@@ -1,0 +1,5 @@
+{
+  "name": "AMNH Family Tour Visualization",
+  "description": "A dynamic animated visualization of a family's route through the American Museum of Natural History, spanning 5 floors.",
+  "requestFramePermissions": []
+}
